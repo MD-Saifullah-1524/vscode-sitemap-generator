@@ -1,16 +1,16 @@
 {
 	"name": "sitemap-generator",
-	"publisher": "NilsSoderman",
+	"publisher": "MSNetwork",
 	"displayName": "Sitemap Generator",
 	"description": "Automatically generate sitemap files for your website & keep them updated as you work.",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"qna": "marketplace",
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
-		"name": "nilssoderman"
+		"name": "MD Saifullah"
 	},
 	"engines": {
-		"vscode": "^1.58.0"
+		"vscode": "^1.80.0"
 	},
 	"categories": [
 		"Other"
@@ -56,7 +56,7 @@
 		"@typescript-eslint/parser": "^4.26.0",
 		"glob": "^7.1.7",
 		"mocha": "^10.1.0",
-		"typescript": "^4.3.2",
+		"typescript": "^5.2.0",
 		"vscode-test": "^1.5.2",
 		"@types/glob-to-regexp": "^0.4.1",
 		"@types/xml2js": "^0.4.9"
